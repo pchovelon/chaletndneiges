@@ -1,0 +1,79 @@
+baseurl = "https://chaletndneiges.org"
+title = "Association Chalet Notre Dame Des Neiges"
+theme = "hugo-theme-cleanwhite"
+languageCode = "fr-fr"
+# Enable comments by entering your Disqus shortname
+preserveTaxonomyNames = true
+paginate = 5 #frontpage pagination
+
+[outputs]
+home = ["HTML", "RSS", "Algolia"]
+
+[params]
+  header_image = "img/header.jpg"
+  SEOTitle = "Association Chalet Notre Dame Des Neiges"
+  description = ""
+  keyword = ""
+  slogan = ""
+
+  image_404 = "img/404.jpg"
+  title_404 = "Cette page n'existe pas :("
+  omit_categories = false
+
+  # leancloud storage for page view counter
+  page_view_conter = false 
+
+  # algolia site search
+  algolia_search = true
+
+  # Sidebar settings
+  sidebar_about_description = "Blog de l'association du Chalet Notre Dame Des Neiges."
+  sidebar_avatar = "img/chalet.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+  featured_tags = true 
+  featured_condition_size = 1 
+
+  friends = true
+  bookmarks = false
+  about_me = true
+
+  [params.social]
+  email         = "chaletndneiges@gmail.com"
+  facebook      = "full profile url in facebook"
+  
+  [[params.friend_link]]
+  title = ""
+  href =  ""
+
+  [[params.addtional_menus]]
+  title =  "Actualités"
+  href =  "/actualités/"
+  [[params.addtional_menus]]
+  title =  "Présentation"
+  href =  "/Présentation/"
+  [[params.addtional_menus]]
+  title =  "Adhésions et dons"
+  href =  "/adhesions/"
+  [[params.addtional_menus]]
+  title =  "Contact"
+  href =  "/contact/"
+  [[params.addtional_menus]]
+  title =  "Souvenirs"
+  href =  "/souvenirs/"
+
+[outputFormats.Algolia]
+baseName = "algolia"
+isPlainText = true
+mediaType = "application/json"
+notAlternative = true
+
+[params.algolia]
+vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+params = ["categories", "tags"] 
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+    startLevel = 1
+  [markup.highlight]
+    style = "dracula"
