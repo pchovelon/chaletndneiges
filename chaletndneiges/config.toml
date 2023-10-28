@@ -10,7 +10,7 @@ paginate = 5 #frontpage pagination
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/header.jpg"
+  header_image = "img/partage/header.jpg"
   SEOTitle = "Association Chalet Notre Dame Des Neiges"
   description = ""
   keyword = ""
@@ -28,7 +28,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   # Sidebar settings
   sidebar_about_description = "Blog de l'association du Chalet Notre Dame Des Neiges."
-  sidebar_avatar = "img/chalet.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/partage/chalet.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
   featured_condition_size = 1 
@@ -47,10 +47,10 @@ home = ["HTML", "RSS", "Algolia"]
 
   [[params.addtional_menus]]
   title =  "Actualités"
-  href =  "/actualités/"
+  href =  "/actualites/"
   [[params.addtional_menus]]
   title =  "Présentation"
-  href =  "/Présentation/"
+  href =  "/presentation/"
   [[params.addtional_menus]]
   title =  "Adhésions et dons"
   href =  "/adhesions/"
