@@ -1,10 +1,10 @@
 ---
-title:       "L’été s’ra chaud à St Guérin !"
-subtitle:    ""
+title: "L’été s’ra chaud à St Guérin !"
+subtitle: ""
 description: ""
-date:        2023-10-26
-author:      "Pierrick"
-image:       "img/2023-sejours-ete.jpg"
+date: 2023-10-26
+author: Pierrick
+image: "img/2023-sejours-ete.jpg"
 info_post: true
 ---
 
