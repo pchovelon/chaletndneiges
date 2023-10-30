@@ -8,5 +8,5 @@
     - categories :
     - tags :
     - author : Pour ajouter un auteur sinon par défaut -> Association Chalet Notre Dame Des Neiges
-    - date : Pour indique la date de l'article
-    - info_post : booleen pour (dé)sactiver autor et date -> true pour afficher
+    - date : Pour indiquer la date de l'article
+    - info_post : booleen pour (dés)activer author et date -> true pour afficher
