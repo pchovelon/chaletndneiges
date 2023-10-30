@@ -5,6 +5,7 @@ description: ""
 date:        2023-10-26
 author:      "Pierrick"
 image:       "img/2023-sejours-ete.jpg"
+info_post: true
 ---
 
 « Même s’il pleut l’été s’ra chaud dans les t-shirts dans les maillots, dl’a Côte d’Azur à Saint-Guérin. L’été s’ra chaud, l’été s’ra chaud. Où vais-je aller ? »
