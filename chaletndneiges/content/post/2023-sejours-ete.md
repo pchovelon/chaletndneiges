@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2023-10-26
 author: Pierrick
-image: "img/2023-sejours-ete.jpg"
+image: "img/post/2023-sejours-ete.jpg"
 info_post: true
 ---
 
