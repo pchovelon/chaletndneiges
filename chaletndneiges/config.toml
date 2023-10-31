@@ -33,21 +33,19 @@ home = ["HTML", "RSS", "Algolia"]
   featured_tags = true 
   featured_condition_size = 1 
 
-  friends = true
+  friends = false
   bookmarks = false
   about_me = true
 
   [params.social]
   email         = "chaletndneiges@gmail.com"
-  facebook      = "full profile url in facebook"
+  facebook      = "https://www.facebook.com/MassillonNeige"
+  #helloasso     = "https://www.helloasso.com/associations/association-chalet-notre-dame-des-neiges"
   
   [[params.friend_link]]
   title = ""
   href =  ""
 
-  [[params.addtional_menus]]
-  title =  "Actualités"
-  href =  "/actualites/"
   [[params.addtional_menus]]
   title =  "Présentation"
   href =  "/presentation/"

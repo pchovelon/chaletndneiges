@@ -7,7 +7,7 @@ author:      "Aurélien"
 image:       "img/souvenirs/souvenirs_banniere.jpg"
 ---
 
-### Retrouvez ici des photos d’hier et d’aujourd’hui, utiles pour se remémorer les nombreuses histoires du chalet …
+**Retrouvez ici des photos d’hier et d’aujourd’hui, utiles pour se remémorer les nombreuses histoires du chalet …**
 
 N'hésitez pas à transmettre vos photos au conseil d'administration
 
@@ -122,7 +122,7 @@ N'hésitez pas à transmettre vos photos au conseil d'administration
 ![Conversions – Années 30 – 40](/img/souvenirs/souvenirs_annee3040.png) 
 > Conversions – Années 30 – 40
 
-![Années 30 – 40](/img/souvenirs/souvenirs_1930.jpg) 
+![Années 30 – 40](/img/souvenirs/souvenirs_1930.png) 
 > Années 30 – 40 
 
 ![Devant le premier chalet – Années 30](/img/souvenirs/souvenirs_1940.png) 

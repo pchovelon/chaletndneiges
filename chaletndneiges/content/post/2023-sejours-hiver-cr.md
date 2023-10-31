@@ -10,6 +10,7 @@ tags:
     - Hiver
     - 2023
     - Compte rendu
+URL: "/2023/sejour-hiver/"
 ---
 
 Peu importe le séjour, le rituel est toujours le même : rendez-vous dans le centre d’Arêches pour tous les participants pour faire connaissance, louer le matos et en avant pour la montée au chalet !! 

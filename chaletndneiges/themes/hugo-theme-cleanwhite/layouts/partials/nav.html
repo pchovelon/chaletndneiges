@@ -13,7 +13,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="{{ "/" | relLangURL }}">{{ .Site.Title }}</a>
+            <a class="navbar-brand" href="{{ "/home" | relLangURL }}">{{ .Site.Title }}</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -26,7 +26,10 @@
             <div class="navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="{{ "/" | relLangURL }}">All Posts</a>
+                        <a href="{{ "/home" | relLangURL }}">Accueil</a>
+                    </li>
+                    <li>
+                        <a href="{{ "/" | relLangURL }}">Articles</a>
                     </li>
                     {{ if not .Site.Params.omit_categories }}
                         {{ range $name, $taxonomy := .Site.Taxonomies.categories }}

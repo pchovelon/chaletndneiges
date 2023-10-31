@@ -18,5 +18,5 @@ N’hésitez pas à vous inscrire à la **_Newsletter_** pour être tenu au cour
 
 | Adresse | Adresse mail | Newsletter - L'écho du cirque |
 |---------|--------------|-------------------------------|
-| Association Chalet Notre Dame des Neiges Chalet Notre Dame des Neiges Cirque Saint Guérin Arêches / Beaufort-sur-Doron 73270 France | chaletndneiges@gmail.com | Pour être tenu au courant des actualités de l’association  (séjours, assemblée générale, etc...), inscrivez vous à **l’écho du Cirque**. Vous recevrez deux à trois mails par an avec l’actualité de l’association. Pour vous inscrire, c'est par ici [Newsletter - L'écho du cirque](https://chaletndneiges.us16.list-manage.com/subscribe?u=6658b02cc6448a49e82d855b4&id=23eaf4d8bf) |
+| Association Chalet Notre Dame des Neiges Chalet Notre Dame des Neiges 7881 route de Saint-Guérin Arêches / Beaufort-sur-Doron 73270 France | chaletndneiges@gmail.com | Pour être tenu au courant des actualités de l’association  (séjours, assemblée générale, etc...), inscrivez vous à **l’écho du Cirque**. Vous recevrez deux à trois mails par an avec l’actualité de l’association. Pour vous inscrire, c'est par ici [Newsletter - L'écho du cirque](https://chaletndneiges.us16.list-manage.com/subscribe?u=6658b02cc6448a49e82d855b4&id=23eaf4d8bf) |
 

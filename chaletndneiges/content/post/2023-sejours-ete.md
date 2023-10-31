@@ -10,6 +10,7 @@ tags:
     - Eté
     - 2023
     - Séjour
+URL: "/2023/sejour-ete/"
 ---
 
 « Même s’il pleut l’été s’ra chaud dans les t-shirts dans les maillots, dl’a Côte d’Azur à Saint-Guérin. L’été s’ra chaud, l’été s’ra chaud. Où vais-je aller ? »
