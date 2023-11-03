@@ -5,7 +5,7 @@ description: ""
 date:        2023-10-28
 author:      "Pierrick"
 menu: presentation
-image:       "img/presentation/ancien_chalet.jpeg"
+image: "img/presentation/chalet_header.jpg"
 ---
 
 ## L'association

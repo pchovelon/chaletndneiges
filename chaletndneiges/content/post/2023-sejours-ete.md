@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2023-10-26
 author: Pierrick
-image: "img/post/2023-sejours-ete.jpg"
+image: "img/post/2023/2023-sejours-ete.jpg"
 info_post: true
 tags:
     - Eté
@@ -18,25 +18,29 @@ URL: "/2023/sejour-ete/"
 Et si vous décidiez de monter au chalet pour profiter de la fraîcheur qu’offre l’altitude et passer de bons moments dans le cirque de Saint Guérin !?
 
 Voici la liste des séjours qui vous sont proposés cette année, il y en a pour tous les goûts et pour tous les âges alors contactez dès à présent les organisateurs du séjour qui vous intéresse.
+![Paysage](/img/post/2023/2023-sejours-ete_1.jpg) 
 
-Séjour Jeunes Parents & Jeunes Enfants du 29 juillet au 5 août :
+### **Séjour Jeunes Parents & Jeunes Enfants du 29 juillet au 5 août :**
 * Responsable : Alexis Bailleul
-* Ouvrir la circulaire du séjour JP/JE
+* [Ouvrir la circulaire du séjour JP/JE](/downloads/areches-2023-JP-JE.pdf "circulaire du séjour JP/JE")
 
-Premier séjour famille du 5 août au 12 août :
+### **Premier séjour famille du 5 août au 12 août :**
 * Responsable : Blandine Delignon
+* [Ouvrir la circulaire du séjour famille 1](/downloads/Sejour-famille-1.pdf "circulaire du séjour famille 1")
 
-Deuxième séjour famille du 12 août au 19 août :
+### **Deuxième séjour famille du 12 août au 19 août :**
 * Responsable : Emmanuel Beuret
-* Ouvrir la circulaire du séjour famille 2
+* [Ouvrir la circulaire du séjour famille 2](/downloads/Sejour-famille-2.pdf "circulaire du séjour famille 2")
 
-Séjour jeunes du 19 août au 26 août :
+### **Séjour jeunes du 19 août au 26 août :**
 * Responsable : Charlotte Ozimek
-* Ouvrir la circulaire du séjour jeunes
+* [Ouvrir la circulaire du séjour jeunes](/downloads/Sejour-jeunes.pdf "circulaire du séjour jeunes")
 
-Séjour travaux du 29 septembre au 2 octobre :
+### **Séjour travaux du 29 septembre au 2 octobre :**
 * Responsable : Lazare Olivry
-* Ouvrir la circulaire du séjour travaux
+* [Ouvrir la circulaire du séjour travaux](/downloads/Sejour_travaux_2023.pdf "circulaire du séjour travaux")
+
+![Pierra menta](/img/post/2023/2023-sejours-ete_2.jpg) 
 
 Bon été au chalet Notre Dame des Neiges !
 

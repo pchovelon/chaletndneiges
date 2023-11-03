@@ -1,11 +1,11 @@
 ---
-title: "Contact"
+title: "Contact                           "
 subtitle:    ""
 description: ""
 date:        2023-10-28
 author:      "Pierrick"
 menu: presentation
-image:       "img/partage/header.jpg"
+image:       "img/contact/contact_header.jpg"
 ---
 
 ## Contact

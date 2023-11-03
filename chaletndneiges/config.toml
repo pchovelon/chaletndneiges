@@ -75,3 +75,6 @@ params = ["categories", "tags"]
     startLevel = 1
   [markup.highlight]
     style = "dracula"
+
+[markup.goldmark.renderer]
+unsafe = true

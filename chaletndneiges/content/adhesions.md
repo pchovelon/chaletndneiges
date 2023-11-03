@@ -5,7 +5,7 @@ description: ""
 date:        2023-10-28
 author:      "Pierrick"
 menu: presentation
-image:       "img/adhesions/adhesion3.jpg"
+image:       "img/adhesions/adhesion_header.jpg"
 ---
 
 ## Adhésions & dons
