@@ -22,7 +22,8 @@ Depuis une quinzaine d’années, des séjours sont également organisés **chaq
 
 ## L'histoire
 [![Lien vers présentation de l'association](/img/home/home_1_pere-Livragne.jpg)](../presentation) 
-Il faut remonter jusqu’au années 1920 : Gilbert Livragne, jeune aumônier, a comme projet de combiner le scoutisme avec la pratique du ski de randonnée.
+Il faut remonter jusqu’au années 1920 : Gilbert Livragne, jeune aumônier, a
+comme projet de combiner le scoutisme avec la pratique du ski de randonnée.
 
 ## L'association
 [![Lien vers présentation de l'association](/img/home/home_2_asso.jpg)](../presentation)  

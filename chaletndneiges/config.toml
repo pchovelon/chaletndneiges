@@ -1,5 +1,5 @@
-#baseurl = "https://chaletndneiges.org/" # prod
-baseurl = "https://chaletndneiges.org/nouveau-site/" # test
+baseurl = "https://chaletndneiges.org/" # prod
+#baseurl = "https://chaletndneiges.org/nouveau-site/" # test
 title = "Association Chalet Notre Dame Des Neiges"
 theme = "hugo-theme-cleanwhite"
 languageCode = "fr-fr"
