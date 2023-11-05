@@ -40,7 +40,7 @@ home = ["HTML", "RSS", "Algolia"]
   [params.social]
   email         = "chaletndneiges@gmail.com"
   facebook      = "https://www.facebook.com/MassillonNeige"
-  #helloasso     = "https://www.helloasso.com/associations/association-chalet-notre-dame-des-neiges"
+  wechat        = "https://www.helloasso.com/associations/association-chalet-notre-dame-des-neiges"
   
   [[params.friend_link]]
   title = ""

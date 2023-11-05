@@ -8,7 +8,7 @@ menu: presentation
 image:       "img/partage/header.jpg"
 ---
 
-**Association Chalet Notre Dame des Neiges**
+## Association Chalet Notre Dame des Neiges
 
 ---
 

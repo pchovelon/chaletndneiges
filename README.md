@@ -1,5 +1,12 @@
 # Pour écrire un post
 
+Soit :
+Utiliser la commande `hugo`
+
+hugo new post/test.md
+
+
+Soit : 
 - ajouter un fichier md dans /chaletndneiges/content/post
 - commencer le fichier par les paramètres
     - title : Pour le titre de l'article
