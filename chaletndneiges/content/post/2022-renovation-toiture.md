@@ -26,13 +26,12 @@ trous**:w
 
 C’est un **chantier lourd** réalisé par des professionnels, **indispensable pour permettre aux séjours d’hiver et d’été de continuer.**
 
-![Toiture en 2018](/img/post/2022/renovation-toiture.jpg)
+![Toiture en 2018](/img/post/2022/renovation-toiture.jpg "Toiture en 2018")
 
-![Toiture en 2022](/img/post/2022/renovation-toiture_1.png)
+![Toiture en 2022](/img/post/2022/renovation-toiture_1.png "Toiture en 2022")
 
-![Rouille sur le toit](/img/post/2022/renovation-toiture_2.jpeg)
-
-![Dégât suite à la grêle](/img/post/2022/renovation-toiture_3.png)
+|![Rouille sur le toit](/img/post/2022/renovation-toiture_2.jpg "Rouille sur le toit")|![Dégât suite à la grêle](/img/post/2022/renovation-toiture_3.png "Dégât suite à la grêle")|
+|:-:|:-:|
 
 **La première phase de reconstruction est actuellement estimée à 38 500€ soit 175€ le mètre carré**, pour les 220 mètres carrés de toit !
 Si cet objectif est dépassé, l’excédent sera affecté à la deuxième partie du toit. Le devis pour l’ensemble des travaux comprend : la dépose du toit, la mise en place de l’échafaudage, l’étanchéité et la couverture.
@@ -40,7 +39,7 @@ Si cet objectif est dépassé, l’excédent sera affecté à la deuxième parti
 Nous avons besoin de votre aide, retrouvez toutes les informations sur la
 plateforme HelloAsso pour verser **votre don, il vous permet une déduction fiscale de 66% :**
 
-https://www.helloasso.com/associations/association-chalet-notre-dame-des-neiges/collectes/refaire-le-toit-du-chalet
+**https://www.helloasso.com/associations/association-chalet-notre-dame-des-neiges/collectes/refaire-le-toit-du-chalet**
 
 L’association vous remercie par avance pour votre générosité !
 
