@@ -9,7 +9,7 @@ info_post: true
 tags:
     - Hiver
     - 2023
-    - Compte rendu
+    - Séjour
 URL: "/2023/sejour-hiver/"
 ---
 
