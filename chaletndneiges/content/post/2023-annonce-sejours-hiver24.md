@@ -15,7 +15,7 @@ URL: "/2023/annonce-sejours-hiver-24/"
 
 ## Le programme de l’hiver 2024 est là !
 
-L'hiver approche à grand pas et l'association vous présente les séjours de l'hiver 2024. Ils seront au nombre de **5 cette année**, avec un petit nouveau, le séjour découverte.
+L'hiver approche à grands pas et l'association vous présente les séjours de l'hiver 2024. Ils seront au nombre de **5 cette année**, avec un petit nouveau, le séjour découverte.
 
 Le chalet est prêt à vous accueillir, quelques travaux ont été faits pour être au sec et la réserve de nourriture a été montée avant les premières chutes de neige.
 
