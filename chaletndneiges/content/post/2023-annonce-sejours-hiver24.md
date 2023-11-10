@@ -28,17 +28,16 @@ A très vite sur les skis !
 
 ![Paysage hiver](/img/post/2023/2023-annonce-sejour-hiver24_1.jpg)
 
-### Séjour « ouvert à tous » du 10 au 17 février :
-Responsable : Anne-Sophie Traineau
-
-<a href="/downloads/2023/XXXX.pdf" target="_blank">Ouvrir la circulaire du séjour « ouvert à tous »</a>
-
 
 ### Séjour famille du 17 au 24 février :
 Responsable : Emmanuel Beuret
 
 <a href="/downloads/2023/Séjour-famille-hiver-24.pdf" target="_blank">Ouvrir la circulaire du séjour famille</a>
 
+### Séjour « ouvert à tous » du 24 février au 2 mars :
+Responsable : Anne-Sophie Traineau
+
+<a href="/downloads/2023/Sejour_ouvert_a_tous_2024.pdf" target="_blank">Ouvrir la circulaire du séjour « ouvert à tous »</a>
 
 ### Séjour « jeune et cool » du 2 au 9 mars :
 Responsable : Fanny Delille et Elise Amblard
