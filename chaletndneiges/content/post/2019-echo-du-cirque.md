@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2019-10-01
 author: Aurélien
-image: "img/post/2019/2019-echo-du-cirque.jpg"
+image: "nouveau-site/img/post/2019/2019-echo-du-cirque.jpg"
 info_post: true
 tags:
     - Eté
@@ -31,22 +31,22 @@ Entre le vendredi 1er et le dimanche 3 Novembre, pour des moments de convivialit
 
 Le chalet peut être ouvert dès le Jeudi soir en fonction de la venue de chacun. N’hésitez pas à revenir vers nous pour plus d’informations, nous serons ravis de vous y retrouver.
 
-![Paysage](/img/post/2019/2019-echo-du-cirque_1.jpg)
+![Paysage](/nouveau-site/img/post/2019/2019-echo-du-cirque_1.jpg)
 > Des nuits étoilées
 
-![Paysage](/img/post/2019/2019-echo-du-cirque_2.jpg)
+![Paysage](/nouveau-site/img/post/2019/2019-echo-du-cirque_2.jpg)
 > Lac de Roselend
 
-![Paysage](/img/post/2019/2019-echo-du-cirque_3.jpg)
+![Paysage](/nouveau-site/img/post/2019/2019-echo-du-cirque_3.jpg)
 > Lac de la Gittaz
 
-![Paysage](/img/post/2019/2019-echo-du-cirque_4.jpg)
+![Paysage](/nouveau-site/img/post/2019/2019-echo-du-cirque_4.jpg)
 > Réfection de la chapelle
 
-![Paysage](/img/post/2019/2019-echo-du-cirque_5.jpg)
+![Paysage](/nouveau-site/img/post/2019/2019-echo-du-cirque_5.jpg)
 > Lac de Saint-Guérin
 
-![Paysage](/img/post/2019/2019-echo-du-cirque_6.jpg)
+![Paysage](/nouveau-site/img/post/2019/2019-echo-du-cirque_6.jpg)
 > L’équipe de choc
 
 

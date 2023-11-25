@@ -5,12 +5,12 @@ description: ""
 date:        2023-10-28
 author:      "Pierrick"
 menu: presentation
-image:       "img/contact/contact_header.jpg"
+image:       "nouveau-site/img/contact/contact_header.jpg"
 ---
 
 ## Contact
 
-![](/img/contact/contact1.jpg)
+![](/nouveau-site/img/contact/contact1.jpg)
 
 Pour toutes **questions, nouvelles, photos, vidéos, histoires et anecdotes** nous vous invitons à nous envoyer un petit **message** que nous lirons et auquel nous **répondrons avec le plus grand plaisir** !
 

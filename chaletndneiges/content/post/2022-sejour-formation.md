@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2023-01-13
 author: Pierrick
-image: "img/post/2022/sejour-formation.jpg"
+image: "nouveau-site/img/post/2022/sejour-formation.jpg"
 info_post: true
 tags:
     - Hiver
@@ -19,12 +19,12 @@ URL: "/2022/sejour-formation/"
 Durant les vacances de noël avait lieu le séjour formation pour les séjours ski de rando de l’hiver au chalet. Pendant 4 jours, les 23 participants ont pu progresser grâce à des topos en cartographie, nivologie et des exercices sur le terrain pour apprendre à tracer ou bien à rechercher une victime sous une avalanche par exemple.
 Topo au chalet
 
-![Séjour formation](img/post/2022/sejour-formation_1.jpg) 
-![Séjour formation](/img/post/2022/sejour-formation_2.jpg) 
-![Séjour formation](/img/post/2022/sejour-formation_3.jpg) 
-![Séjour formation](/img/post/2022/sejour-formation_4.jpg) 
-![Séjour formation](/img/post/2022/sejour-formation_5.jpg) 
-![Séjour formation](/img/post/2022/sejour-formation_6.jpg) 
+![Séjour formation](nouveau-site/img/post/2022/sejour-formation_1.jpg) 
+![Séjour formation](/nouveau-site/img/post/2022/sejour-formation_2.jpg) 
+![Séjour formation](/nouveau-site/img/post/2022/sejour-formation_3.jpg) 
+![Séjour formation](/nouveau-site/img/post/2022/sejour-formation_4.jpg) 
+![Séjour formation](/nouveau-site/img/post/2022/sejour-formation_5.jpg) 
+![Séjour formation](/nouveau-site/img/post/2022/sejour-formation_6.jpg) 
 
 Exercices de cartographie en extérieur et intérieur, utilisation du pack sécurité (DVA, pelle, sonde), topo au chalet
 

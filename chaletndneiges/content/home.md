@@ -5,7 +5,7 @@ description: ""
 date:        2023-10-28
 author:      "Pierrick"
 menu: presentation
-image:       "img/partage/header.jpg"
+image:       "nouveau-site/img/partage/header.jpg"
 ---
 
 ## Association Chalet Notre Dame des Neiges
@@ -21,14 +21,14 @@ Depuis une quinzaine d’années, des séjours sont également organisés **chaq
 ---
 
 ## L'histoire
-[![Lien vers présentation de l'association](/img/home/home_1_pere-Livragne.jpg)](../presentation) 
+[![Lien vers présentation de l'association](/nouveau-site/img/home/home_1_pere-Livragne.jpg)](../presentation) 
 Il faut remonter jusqu’au années 1920 : Gilbert Livragne, jeune aumônier, a
 comme projet de combiner le scoutisme avec la pratique du ski de randonnée.
 
 ## L'association
-[![Lien vers présentation de l'association](/img/home/home_2_asso.jpg)](../presentation)  
+[![Lien vers présentation de l'association](/nouveau-site/img/home/home_2_asso.jpg)](../presentation)  
 L’association du chalet Notre Dame des Neiges associe la pratique d’activités physiques et/ou culturelles à la vie en communauté et à la réflexion personnelle.
 
 ## Le chalet
-[![Lien vers présentation de l'association](/img/home/home_3_chalet.jpg)](../presentation)  
+[![Lien vers présentation de l'association](/nouveau-site/img/home/home_3_chalet.jpg)](../presentation)  
 Situé au dessus du barrage de Saint-Guerin, sur la commune d’Arêches-Beaufort, le chalet Notre Dame des Neiges est un lieu simple et adapté pour profiter au mieux de la montagne en groupe.

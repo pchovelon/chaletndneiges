@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2022-04-18
 author: Aurélien
-image: "img/post/2022/2022-annone-sejour-ete.jpg"
+image: "nouveau-site/img/post/2022/2022-annone-sejour-ete.jpg"
 info_post: true
 tags:
     - 2022

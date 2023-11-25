@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2021-01-04
 author: Aurélien
-image: "img/post/2020/2020-annonce-sejour-hiver21.jpg"
+image: "nouveau-site/img/post/2020/2020-annonce-sejour-hiver21.jpg"
 info_post: true
 tags:
     - Hiver

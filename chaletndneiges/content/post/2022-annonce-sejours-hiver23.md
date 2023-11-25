@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2022-11-25
 author: Aurélien
-image: "img/post/2022/sejour-hiver-23.jpg"
+image: "nouveau-site/img/post/2022/sejour-hiver-23.jpg"
 info_post: true
 tags:
     - Hiver
@@ -27,7 +27,7 @@ Responsable : Ambroise Lefevre et Emmanuel Beuret
 
 <a href="/downloads/2022/Circulaire-se-jour-formation-2022.pdf" target="_blank">Ouvrir la circulaire du séjour formation</a>
 
-![Chamois](/img/post/2022/sejour-hiver-23_1.jpg)
+![Chamois](/nouveau-site/img/post/2022/sejour-hiver-23_1.jpg)
 
 ### Séjour « ouvert à tous » du 18 au 25 février :
 Responsable : Anne-Sophie Traineau
@@ -49,7 +49,7 @@ Responsable : Fanny Delille et Lazare Olivry
 
 <a href="/downloads/2022/Sejour-Areches_12-19mars2023_jeune-et-cool-1.pdf" target="_blank">Ouvrir la circulaire du séjour jeune et cool</a>
 
-![Lac de Saint Guerin](/img/post/2022/sejour-hiver-23_2.jpg) 
+![Lac de Saint Guerin](/nouveau-site/img/post/2022/sejour-hiver-23_2.jpg) 
 
 N’hésitez pas à contacter les organisateurs pour avoir plus d’informations ou pour vous inscrire.
 

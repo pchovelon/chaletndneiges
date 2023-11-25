@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2020-06-19
 author: Aurélien
-image: "img/post/2020/2020-annonce-sejour-ete.jpg"
+image: "nouveau-site/img/post/2020/2020-annonce-sejour-ete.jpg"
 info_post: true
 tags:
     - 2020

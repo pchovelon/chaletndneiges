@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2023-10-26
 author: Pierrick
-image: "img/post/2023/2023-sejours-ete.jpg"
+image: "nouveau-site/img/post/2023/2023-sejours-ete.jpg"
 info_post: true
 tags:
     - Eté
@@ -18,7 +18,7 @@ URL: "/2023/sejour-ete/"
 Et si vous décidiez de monter au chalet pour profiter de la fraîcheur qu’offre l’altitude et passer de bons moments dans le cirque de Saint Guérin !?
 
 Voici la liste des séjours qui vous sont proposés cette année, il y en a pour tous les goûts et pour tous les âges alors contactez dès à présent les organisateurs du séjour qui vous intéresse.
-![Paysage](/img/post/2023/2023-sejours-ete_1.jpg) 
+![Paysage](/nouveau-site/img/post/2023/2023-sejours-ete_1.jpg) 
 
 ### **Séjour Jeunes Parents & Jeunes Enfants du 29 juillet au 5 août :**
 * Responsable : Alexis Bailleul
@@ -40,7 +40,7 @@ Voici la liste des séjours qui vous sont proposés cette année, il y en a pour
 * Responsable : Lazare Olivry
 * <a href="/downloads/2023/Sejour-travaux.pdf" target="_blank">Ouvrir la circulaire du séjour travaux</a>
 
-![Pierra menta](/img/post/2023/2023-sejours-ete_2.jpg) 
+![Pierra menta](/nouveau-site/img/post/2023/2023-sejours-ete_2.jpg) 
 
 Bon été au chalet Notre Dame des Neiges !
 

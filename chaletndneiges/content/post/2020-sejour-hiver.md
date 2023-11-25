@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2020-06-19
 author: Aurélien
-image: "img/post/2020/2020-sejour-hiver.jpg"
+image: "nouveau-site/img/post/2020/2020-sejour-hiver.jpg"
 info_post: true
 tags:
     - 2020
@@ -29,8 +29,8 @@ On vous laisse avec quelques photos. N’hésitez à pas nous envoyer les vôtre
 
 Amicalement.
 
-![Paysage](/img/post/2020/2020-sejour-hiver_1.jpg)
+![Paysage](/nouveau-site/img/post/2020/2020-sejour-hiver_1.jpg)
 
-![Paysage](/img/post/2020/2020-sejour-hiver_2.jpg)
+![Paysage](/nouveau-site/img/post/2020/2020-sejour-hiver_2.jpg)
 
-![Paysage](/img/post/2020/2020-sejour-hiver_3.jpg)
+![Paysage](/nouveau-site/img/post/2020/2020-sejour-hiver_3.jpg)

@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2021-05-12
 author: Aurélien
-image: "img/post/2021/2021-sejour-ete.jpg"
+image: "nouveau-site/img/post/2021/2021-sejour-ete.jpg"
 info_post: true
 tags:
     - 2021
