@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2023-01-13
 author: Pierrick
-image: "nouveau-site/img/post/2022/sejour-formation.jpg"
+image: "img/post/2022/sejour-formation.jpg"
 info_post: true
 tags:
     - Hiver

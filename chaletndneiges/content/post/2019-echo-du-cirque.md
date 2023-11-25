@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2019-10-01
 author: Aurélien
-image: "nouveau-site/img/post/2019/2019-echo-du-cirque.jpg"
+image: "img/post/2019/2019-echo-du-cirque.jpg"
 info_post: true
 tags:
     - Eté

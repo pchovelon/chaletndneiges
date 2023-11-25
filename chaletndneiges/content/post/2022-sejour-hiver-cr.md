@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2022-09-15
 author: Aurélien
-image: "nouveau-site/img/post/2022/2022-sejour-hiver-cr.jpg"
+image: "img/post/2022/2022-sejour-hiver-cr.jpg"
 info_post: true
 tags:
     - AG

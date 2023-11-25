@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2020-08-04
 author: Aurélien
-image: "nouveau-site/img/post/2020/2020-annonce-travaux.jpg"
+image: "img/post/2020/2020-annonce-travaux.jpg"
 info_post: true
 tags:
     - 2020

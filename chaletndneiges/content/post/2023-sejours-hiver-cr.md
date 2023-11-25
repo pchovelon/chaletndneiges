@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2023-05-10
 author: Aurélien
-image: "nouveau-site/img/post/2023/2023-sejours-hiver.jpg"
+image: "img/post/2023/2023-sejours-hiver.jpg"
 info_post: true
 tags:
     - Hiver

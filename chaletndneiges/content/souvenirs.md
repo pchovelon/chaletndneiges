@@ -4,7 +4,7 @@ subtitle:    ""
 description: ""
 date:        2023-10-30
 author:      "Aurélien"
-image:       "nouveau-site/img/souvenirs/souvenirs_banniere.jpg"
+image:       "img/souvenirs/souvenirs_banniere.jpg"
 ---
 
 **Retrouvez ici des photos d’hier et d’aujourd’hui, utiles pour se remémorer les nombreuses histoires du chalet …**

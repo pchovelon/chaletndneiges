@@ -5,7 +5,7 @@ description: ""
 date:        2023-10-28
 author:      "Pierrick"
 menu: presentation
-image:       "nouveau-site/img/partage/header.jpg"
+image:       "img/partage/header.jpg"
 ---
 
 ## Association Chalet Notre Dame des Neiges

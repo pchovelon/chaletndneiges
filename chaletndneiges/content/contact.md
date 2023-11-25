@@ -5,7 +5,7 @@ description: ""
 date:        2023-10-28
 author:      "Pierrick"
 menu: presentation
-image:       "nouveau-site/img/contact/contact_header.jpg"
+image:       "img/contact/contact_header.jpg"
 ---
 
 ## Contact

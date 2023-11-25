@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2019-11-14
 author: Aurélien
-image: "nouveau-site/img/post/2019/2019-annonce-sejour-hiver.jpg"
+image: "img/post/2019/2019-annonce-sejour-hiver.jpg"
 info_post: true
 tags:
     - Hiver

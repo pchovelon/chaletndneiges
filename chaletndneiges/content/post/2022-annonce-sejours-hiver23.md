@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2022-11-25
 author: Aurélien
-image: "nouveau-site/img/post/2022/sejour-hiver-23.jpg"
+image: "img/post/2022/sejour-hiver-23.jpg"
 info_post: true
 tags:
     - Hiver

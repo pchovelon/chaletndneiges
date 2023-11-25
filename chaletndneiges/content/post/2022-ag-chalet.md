@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2022-11-22
 author: Aurélien
-image: "nouveau-site/img/post/2022/2022-ag-chalet.jpg"
+image: "img/post/2022/2022-ag-chalet.jpg"
 info_post: true
 tags:
     - AG

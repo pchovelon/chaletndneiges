@@ -4,7 +4,7 @@ subtitle: ""
 description: ""
 date: 2020-11-02
 author: Aurélien
-image: "nouveau-site/img/post/2020/2020-sejour-ete-cr.jpg"
+image: "img/post/2020/2020-sejour-ete-cr.jpg"
 info_post: true
 tags:
     - 2020
