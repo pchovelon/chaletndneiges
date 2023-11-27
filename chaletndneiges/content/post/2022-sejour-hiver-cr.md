@@ -7,7 +7,6 @@ author: Aurélien
 image: "img/post/2022/2022-sejour-hiver-cr.jpg"
 info_post: true
 tags:
-    - AG
     - 2022
     - Hiver
     - Séjour
