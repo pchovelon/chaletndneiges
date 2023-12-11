@@ -10,7 +10,7 @@ image:       "img/contact/contact_header.jpg"
 
 ## Contact
 
-![](/nouveau-site/img/contact/contact1.jpg)
+![](/img/contact/contact1.jpg)
 
 Pour toutes **questions, nouvelles, photos, vidéos, histoires et anecdotes** nous vous invitons à nous envoyer un petit **message** que nous lirons et auquel nous **répondrons avec le plus grand plaisir** !
 

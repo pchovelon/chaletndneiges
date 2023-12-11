@@ -10,13 +10,13 @@ image: "img/presentation/chalet_header.jpg"
 
 ## L'association
 
-![](/nouveau-site/img/presentation/rando.jpeg)
+![](/img/presentation/rando.jpeg)
 
 L’**association du Chalet Notre Dame des Neiges** vise à ce que ledit chalet continue d’être un lieu d’accueil associant la pratique d’**activités éducatives physiques** et/ou **culturelles** à **la vie en communauté** et à la réflexion personnelle. Tout au long de l’année, **été** comme **hiver**, des séjours y sont organisés pour profiter de **la montagne autrement** ...
 
 ## Notre vision
 
-![](/nouveau-site/img/presentation/vue.jpeg)
+![](/img/presentation/vue.jpeg)
 
 L’**association du Chalet Notre Dame des Neiges** a pour vocation de faire découvrir la montagne autrement aux plus nombreux. Pendant les séjours, d’**été** ou d’**hiver**, des personnes de **tous âges** se retrouvent pour partager des moments forts **autour de découvertes, d’activités physiques et de temps de réflexions spirituels**.
 
@@ -24,7 +24,7 @@ L’**association du Chalet Notre Dame des Neiges** a pour vocation de faire dé
 
 ## L'histoire
 
-![](/nouveau-site/img/presentation/ancien_chalet.jpeg)
+![](/img/presentation/ancien_chalet.jpeg)
 
 Le  succès des camps d’hiver qu’il organisait depuis quelques années se confirme. Afin de pérenniser sa démarche, **Gilbert Livragne**, aumônier du **groupe scout de Massillon**, décida de lancer une souscription auprès des familles afin de récolter les fonds pour faire **construire un chalet**.
 
@@ -34,7 +34,7 @@ C’est ainsi que, années après années, les camps d’hiver continuaient d’
 
 ## Le Chalet
 
-![](/nouveau-site/img/presentation/nouveau_chalet.jpeg)
+![](/img/presentation/nouveau_chalet.jpeg)
 
 A la fin des années **1970**, la réglementation se durcit : du fait de l’**enneigement de la route menant au chalet**, les mineurs non-accompagnés de leurs parents ne sont désormais plus autorisés à monter au chalet pendant l’hiver.
 

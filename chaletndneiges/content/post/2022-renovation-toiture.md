@@ -26,11 +26,11 @@ trous**:w
 
 C’est un **chantier lourd** réalisé par des professionnels, **indispensable pour permettre aux séjours d’hiver et d’été de continuer.**
 
-![Toiture en 2018](/nouveau-site/img/post/2022/renovation-toiture.jpg "Toiture en 2018")
+![Toiture en 2018](/img/post/2022/renovation-toiture.jpg "Toiture en 2018")
 
-![Toiture en 2022](/nouveau-site/img/post/2022/renovation-toiture_1.png "Toiture en 2022")
+![Toiture en 2022](/img/post/2022/renovation-toiture_1.png "Toiture en 2022")
 
-|![Rouille sur le toit](/nouveau-site/img/post/2022/renovation-toiture_2.jpg "Rouille sur le toit")|![Dégât suite à la grêle](/nouveau-site/img/post/2022/renovation-toiture_3.png "Dégât suite à la grêle")|
+|![Rouille sur le toit](/img/post/2022/renovation-toiture_2.jpg "Rouille sur le toit")|![Dégât suite à la grêle](/img/post/2022/renovation-toiture_3.png "Dégât suite à la grêle")|
 |:-:|:-:|
 
 **La première phase de reconstruction est actuellement estimée à 38 500€ soit 175€ le mètre carré**, pour les 220 mètres carrés de toit !

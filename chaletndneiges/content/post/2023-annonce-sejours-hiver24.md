@@ -26,7 +26,7 @@ N'hésitez pas à partager autour de vous les différents séjours de l'associat
 A très vite sur les skis !
 
 
-![Paysage hiver](/nouveau-site/img/post/2023/2023-annonce-sejour-hiver24_1.jpg)
+![Paysage hiver](/img/post/2023/2023-annonce-sejour-hiver24_1.jpg)
 
 
 ### Séjour famille du 17 au 24 février :
@@ -34,14 +34,14 @@ Responsable : Emmanuel Beuret
 
 <a href="/downloads/2023/Séjour-famille-hiver-24.pdf" target="_blank">Ouvrir la circulaire du séjour famille</a>
 
-![Paysage hiver](/nouveau-site/img/post/2023/2023-annonce-sejour-hiver24_3.jpg)
+![Paysage hiver](/img/post/2023/2023-annonce-sejour-hiver24_3.jpg)
 
 ### Séjour « ouvert à tous » du 24 février au 2 mars :
 Responsable : Anne-Sophie Traineau
 
 <a href="/downloads/2023/Sejour_ouvert_a_tous_2024.pdf" target="_blank">Ouvrir la circulaire du séjour « ouvert à tous »</a>
 
-![Paysage hiver](/nouveau-site/img/post/2023/2023-annonce-sejour-hiver24_4.jpg)
+![Paysage hiver](/img/post/2023/2023-annonce-sejour-hiver24_4.jpg)
 
 
 ### Séjour « jeune et cool » du 2 au 9 mars :
@@ -49,21 +49,21 @@ Responsable : Fanny Delille et Elise Amblard
 
 <a href="/downloads/2023/Circulaire-sejour-jeunes-et-cools-2024.pdf" target="_blank">Ouvrir la circulaire du séjour jeune et cool</a>
 
-![Paysage hiver](/nouveau-site/img/post/2023/2023-annonce-sejour-hiver24_5.jpg)
+![Paysage hiver](/img/post/2023/2023-annonce-sejour-hiver24_5.jpg)
 
 ### Séjour jeunes du 9 au 16 mars :
 Responsable : Alice Delille
 
 <a href="/downloads/2023/Plaquette-séjour-cool-kids-2024.pdf" target="_blank">Ouvrir la circulaire du séjour jeunes</a>
 
-![Paysage hiver](/nouveau-site/img/post/2023/2023-annonce-sejour-hiver24_6.jpg)
+![Paysage hiver](/img/post/2023/2023-annonce-sejour-hiver24_6.jpg)
 
 ### Séjour découverte du 16 au 20 mars :
 Responsable : Pierrick Chovelon
 
 <a href="/downloads/2023/Circulaire-sejour-découverte-2024.pdf" target="_blank">Ouvrir la circulaire du séjour jeunes</a>
 
-![Paysage hiver](/nouveau-site/img/post/2023/2023-annonce-sejour-hiver24_7.jpg)
+![Paysage hiver](/img/post/2023/2023-annonce-sejour-hiver24_7.jpg)
 
 N’hésitez pas à contacter les organisateurs pour avoir plus d’informations ou pour vous inscrire.
 

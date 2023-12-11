@@ -29,8 +29,8 @@ On vous laisse avec quelques photos. N’hésitez à pas nous envoyer les vôtre
 
 Amicalement.
 
-![Paysage](/nouveau-site/img/post/2020/2020-sejour-hiver_1.jpg)
+![Paysage](/img/post/2020/2020-sejour-hiver_1.jpg)
 
-![Paysage](/nouveau-site/img/post/2020/2020-sejour-hiver_2.jpg)
+![Paysage](/img/post/2020/2020-sejour-hiver_2.jpg)
 
-![Paysage](/nouveau-site/img/post/2020/2020-sejour-hiver_3.jpg)
+![Paysage](/img/post/2020/2020-sejour-hiver_3.jpg)

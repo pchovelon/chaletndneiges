@@ -31,22 +31,22 @@ Entre le vendredi 1er et le dimanche 3 Novembre, pour des moments de convivialit
 
 Le chalet peut être ouvert dès le Jeudi soir en fonction de la venue de chacun. N’hésitez pas à revenir vers nous pour plus d’informations, nous serons ravis de vous y retrouver.
 
-![Paysage](/nouveau-site/img/post/2019/2019-echo-du-cirque_1.jpg)
+![Paysage](/img/post/2019/2019-echo-du-cirque_1.jpg)
 > Des nuits étoilées
 
-![Paysage](/nouveau-site/img/post/2019/2019-echo-du-cirque_2.jpg)
+![Paysage](/img/post/2019/2019-echo-du-cirque_2.jpg)
 > Lac de Roselend
 
-![Paysage](/nouveau-site/img/post/2019/2019-echo-du-cirque_3.jpg)
+![Paysage](/img/post/2019/2019-echo-du-cirque_3.jpg)
 > Lac de la Gittaz
 
-![Paysage](/nouveau-site/img/post/2019/2019-echo-du-cirque_4.jpg)
+![Paysage](/img/post/2019/2019-echo-du-cirque_4.jpg)
 > Réfection de la chapelle
 
-![Paysage](/nouveau-site/img/post/2019/2019-echo-du-cirque_5.jpg)
+![Paysage](/img/post/2019/2019-echo-du-cirque_5.jpg)
 > Lac de Saint-Guérin
 
-![Paysage](/nouveau-site/img/post/2019/2019-echo-du-cirque_6.jpg)
+![Paysage](/img/post/2019/2019-echo-du-cirque_6.jpg)
 > L’équipe de choc
 
 

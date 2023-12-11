@@ -26,20 +26,20 @@ La belle saison touche à sa fin et il est temps de dresser un petit bilan des s
 * Le ravitaillement de nourriture pour les séjours d’hiver a été fait ce même week-end par des membres de l’association.
 En prime quelques photos des séjours travaux :
 
-![Travaux](/nouveau-site/img/post/2020/2020-sejour-ete-cr_1.jpg)
+![Travaux](/img/post/2020/2020-sejour-ete-cr_1.jpg)
 
-![Travaux](/nouveau-site/img/post/2020/2020-sejour-ete-cr_2.jpg)
+![Travaux](/img/post/2020/2020-sejour-ete-cr_2.jpg)
 
-![Travaux](/nouveau-site/img/post/2020/2020-sejour-ete-cr_3.jpg)
+![Travaux](/img/post/2020/2020-sejour-ete-cr_3.jpg)
 
-![Travaux](/nouveau-site/img/post/2020/2020-sejour-ete-cr_4.jpg)
+![Travaux](/img/post/2020/2020-sejour-ete-cr_4.jpg)
 
-![Travaux](/nouveau-site/img/post/2020/2020-sejour-ete-cr_5.jpg)
+![Travaux](/img/post/2020/2020-sejour-ete-cr_5.jpg)
 
-![Travaux](/nouveau-site/img/post/2020/2020-sejour-ete-cr_6.jpg)
+![Travaux](/img/post/2020/2020-sejour-ete-cr_6.jpg)
 
-![Travaux](/nouveau-site/img/post/2020/2020-sejour-ete-cr_7.jpg)
+![Travaux](/img/post/2020/2020-sejour-ete-cr_7.jpg)
 
-![Travaux](/nouveau-site/img/post/2020/2020-sejour-ete-cr_8.jpg)
+![Travaux](/img/post/2020/2020-sejour-ete-cr_8.jpg)
 
 A bientôt !

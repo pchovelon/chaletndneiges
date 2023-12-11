@@ -20,7 +20,7 @@ Chers amis du chalet, n’oubliez pas de prendre votre cotisation pour la procha
 
 Amicalement
 
-![réunion](/nouveau-site/img/post/2023/2023-ag-paris_1.jpg) 
+![réunion](/img/post/2023/2023-ag-paris_1.jpg) 
 
-![réunion](/nouveau-site/img/post/2023/2023-ag-paris_2.jpg)
+![réunion](/img/post/2023/2023-ag-paris_2.jpg)
 

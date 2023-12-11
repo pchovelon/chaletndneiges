@@ -10,14 +10,14 @@ image: "img/adhesions/adhesion_header.jpg"
 
 ## Adhésions & dons
 
-![](/nouveau-site/img/adhesions/adhesion1.jpg)
+![](/img/adhesions/adhesion1.jpg)
 
 Depuis le début de son histoire, l’association se **construit et perdure** en grande partie grâce aux dons. Régulièrement des travaux doivent être engagés pour que le lieu puisse **continuer à accueillir des séjours**. Ces travaux sont en grande partie possibles grâce aux dons des sympathisants du **Chalet Notre Dame des Neiges**.
 
 **_Nous ne remercierons jamais assez nos précieux donateurs qui soutiennent l’association chacun à leurs niveaux._** 
 **Pour rappel vos dons sont déductibles des impôts.**
 
-![](/nouveau-site/img/adhesions/adhesion2.jpg)
+![](/img/adhesions/adhesion2.jpg)
 
 **Depuis 2017**, nous utilisons la plateforme **Hello Asso** pour faciliter les transactions financières. C’est un **service 100% gratuit et sécurisé**, qui facilite grandement la vie financière des associations. **Hello Asso** se finance grâce aux dons proposés en fin de formulaire de paiement.
   

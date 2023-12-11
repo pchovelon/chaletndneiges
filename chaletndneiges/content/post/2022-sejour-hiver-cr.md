@@ -24,9 +24,9 @@ Ensuite, place au séjour famille avec un petit groupe d’habitués qui ont su 
 Et pour clôturer la saison, le séjour jeune et cool qui a su une fois de plus remplir le chalet avec 32 participants. Malgré une arrivée au chalet tumultueuse et tardive pour certains, le jeu en valait la chandelle pour en prendre plein les yeux toute la semaine. Différents traceurs ont pris le relais pour susciter on l’espère de nouvelles vocations de responsable montagne….affaire à suivre
 
 
-![Photo de groupe](/nouveau-site/img/post/2022/2022-sejour-hiver-cr_1.jpg)
+![Photo de groupe](/img/post/2022/2022-sejour-hiver-cr_1.jpg)
 
-![Photo de groupe](/nouveau-site/img/post/2022/2022-sejour-hiver-cr_2.jpg)
+![Photo de groupe](/img/post/2022/2022-sejour-hiver-cr_2.jpg)
 
-![Photo de groupe](/nouveau-site/img/post/2022/2022-sejour-hiver-cr_3.jpg)
+![Photo de groupe](/img/post/2022/2022-sejour-hiver-cr_3.jpg)
 
