@@ -118,7 +118,10 @@ N'hésitez pas à transmettre vos photos au conseil d'administration
 ![Séjour années 70](/img/souvenirs/souvenirs_1970.jpg) 
 > Séjour années 70
 
-## Années 1940-1930
+## Années 1930-40-50
+![Conversions – Années 30 – 40](/img/souvenirs/souvenirs_50.jpg) 
+> Ancien Chalet – Années 50 - Photographe François Thomas
+
 ![Conversions – Années 30 – 40](/img/souvenirs/souvenirs_annee3040.png) 
 > Conversions – Années 30 – 40
 
