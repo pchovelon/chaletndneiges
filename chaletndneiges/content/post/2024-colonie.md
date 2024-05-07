@@ -11,7 +11,7 @@ tags:
 URL: "/2023/colonie-psj/"
 ---
 
-Le **Patronage Saint-Joseph** de Saint-Etienne, oeuvre pour les jeunes des **religieux de Saint Vincent de Paul** a posé ses bagages dans le cirque de Saint-Guérin en **juillet 1976**. Depuis cette date, des générations d'enfants, d'animateurs bénévoles et de religieux se sont succédé entre les murs du chalet Notre Dame des Neiges. 
+Le **Patronage Saint-Joseph** de Saint-Etienne, oeuvre pour les jeunes des **religieux de Saint Vincent de Paul**, a posé ses bagages dans le cirque de Saint-Guérin en **juillet 1976**. Depuis cette date, des générations d'enfants, d'animateurs bénévoles et de religieux se sont succédé entre les murs du chalet Notre Dame des Neiges. 
  
 La colonie propose de vivre à une quarantaine de jeunes, 3 semaines à l'écart de la société, tourné vers la beauté de la création, les moments de partage et le sport en pleine nature. La devise des patronages : **"Ici on joue, ici on prie"** prend tout son sens.
 
