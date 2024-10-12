@@ -13,6 +13,15 @@ N'hésitez pas à transmettre vos photos au conseil d'administration
 
 
 ## Années 2020 
+![séjour JPJE 2024](/img/souvenirs/souvenirs_jpje-24.png) 
+> Séjour Jeunes Parents Jeunes Enfants 2024
+
+![séjour jeunes 2024](/img/souvenirs/souvenirs_coolkid-24.png) 
+> Séjour jeunes 2024
+
+![séjour Découverte 2024](/img/souvenirs/souvenirs_decouverte-24.jpg) 
+> Séjour Découverte 2024
+
 ![séjour jeunes 2023](/img/souvenirs/souvenirs_coolkid-23.png) 
 > Séjour jeunes 2023
 
