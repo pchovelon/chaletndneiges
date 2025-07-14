@@ -17,3 +17,5 @@ Soit :
     - date : Pour indiquer la date de l'article
     - info_post : booleen pour (dés)activer author et date -> true pour afficher
     - categories: créer un menu additionnel. ex: [ Actualités ]
+
+Avant de commit :  hugo --config="config.toml"

@@ -26,7 +26,7 @@ L'association Notre Dame des Neiges vous propose plusieurs séjours durant le mo
 * Responsable : Emmanuel Beuret
 * <a href="/downloads/2025/Sejour famille_2025.pdf" target="_blank">Ouvrir la circulaire du séjour famille</a>
 
-### **Séjours Jeunes Parents & Jeunes Enfants du 9 août au 16 août 2025***
+### **Séjours Jeunes Parents & Jeunes Enfants du 9 août au 16 août 2025 :**
 * Responsable : Caroline Binet
 * <a href="/downloads/2025/Areches 2025_Sejours JPJE.pdf" target="_blank">Ouvrir la circulaire des séjours JP/JE</a>
 
