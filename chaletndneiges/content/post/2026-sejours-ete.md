@@ -42,6 +42,10 @@ Pour toute inscription ou demande d’information, merci de prendre directement 
 * Responsable : Camille Nguyen
 * <a href="/downloads/2026/Affiche-sejour-travaux-2026_NDDN.pdf" target="_blank">Ouvrir la circulaire du séjour travaux</a>
 
+### **Séjour Jeunes & Cool : R.T.C.C du 15 au 18 octobre :**
+* Responsable : Cécile Helleringer
+* <a href="/downloads/2026/Plaquette Jeunes et cool.pdf" target="_blank">Ouvrir la circulaire du séjour R.T.C.C</a>
+
 
 ![Arêches](/img/post/2026/2026-sejour-ete-3.jpg) 
 
