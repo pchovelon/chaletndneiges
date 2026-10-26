@@ -19,12 +19,12 @@ Depuis le début de son histoire, l’association se **construit et perdure** en
 
 ![](/img/adhesions/adhesion2.jpg)
 
-**Depuis 2017**, nous utilisons la plateforme **Hello Asso** pour faciliter les transactions financières. C’est un **service 100% gratuit et sécurisé**, qui facilite grandement la vie financière des associations. **Hello Asso** se finance grâce aux dons proposés en fin de formulaire de paiement.
+**Depuis 2017**, nous utilisons la plateforme **HelloAsso** pour faciliter les transactions financières. C’est un **service 100% gratuit et sécurisé**, qui facilite grandement la vie financière des associations. **HelloAsso** se finance grâce aux dons proposés en fin de formulaire de paiement.
   
-Retrouvez également un formulaire pour être à jour de sa **cotisation d’adhérent** !
+Pour être à jour de sa **cotisation d’adhérent** ou **pour faire une première adhésion**, veuillez prendre contact avec l'association afin d'obtenir le lien d'inscription !
 
 _Si vous préférez envoyer un chèque ou effectuer un virement, envoyez nous un mail à chaletndneiges@gmail.com, nous vous répondrons le plus rapidement possible avec les informations utiles. Suite au don, nous vous enverrons un reçu fiscal._
 
 Faire un don à l'association :
 
-* [https://www.helloasso.com/associations/association-chalet-notre-dame-des-neiges](https://www.helloasso.com/associations/association-chalet-notre-dame-des-neiges)
+* [Lien vers HelloAsso](https://www.helloasso.com/associations/association-chalet-notre-dame-des-neiges/formulaires/2)

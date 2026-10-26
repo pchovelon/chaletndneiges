@@ -49,7 +49,7 @@ Au programme : Participation au trail Frison Roche pour petits et grands, balade
 
 ![séjour été 2026](/img/post/2026/2026-cr-sejour-ete-08.png)
 
-Une semaine en famille, au cœur du Beaufortain :
+## Une semaine en famille, au cœur du Beaufortain :
 
 Du 8 au 15 août, le séjour Familles a pris le relais. L’occasion de se retrouver, de faire découvrir la montagne aux enfants et de parcourir ensemble les sentiers du Beaufortain.
 
@@ -59,7 +59,7 @@ Du 8 au 15 août, le séjour Familles a pris le relais. L’occasion de se retro
 
 ![séjour été 2026](/img/post/2026/2026-cr-sejour-ete-11.png)
 
-Un été de découvertes pour les jeunes :
+## Un été de découvertes pour les jeunes :
 
 Du 15 au 22 août, place au séjour Jeunes ! Une nouvelle semaine pour explorer la montagne et partager de belles aventures entre participants.
 
@@ -70,7 +70,7 @@ Du 15 au 22 août, place au séjour Jeunes ! Une nouvelle semaine pour explorer 
 
 ![séjour été 2026](/img/post/2026/2026-cr-sejour-ete-18.png)
 
-Des manches retroussées pour préparer l’avenir :
+## Des manches retroussées pour préparer l’avenir :
 
 Enfin, du 3 au 6 septembre, le séjour Travaux a rassemblé les volontaires prêts à donner de leur temps et de leur énergie pour entretenir le chalet.
 
@@ -87,8 +87,23 @@ Un grand merci à toutes celles et ceux qui se sont mobilisés ! Ces journées s
 
 ![séjour été 2026](/img/post/2026/2026-cr-sejour-ete-15.png)
 
+## L'été se poursuit avec la première édition du RTCC (Rando, Trail, Café, Coinche) :
 
-Quatre séjours, des publics différents et autant de façons de vivre en groupe à Arêches. Au fil des semaines, le chalet Notre-Dame des Neiges a retrouvé ce qui fait son identité : une vie collective, des activités pour découvrir la montagne, des temps de partage et une place pour la réflexion spirituelle.
+Des couleurs d’automne à couper le souffle, des copains avec qui se faire la caisse avant de chausser les skis cet hiver, des nouveaux sentiers à fouler et des débats enflammés autour d’un café, voilà le programme du WE dernier. Une partie des Jeunes & Cools et de nouveaux copains se sont retrouvés à Notre Dame des Neiges pour profiter du cirque le temps d’un long WE. A vélo nous sommes allés au Cormet de Rosenland tandis qu’à pied nous avons fait le tour des Crey du Rey et du Bœuf ! Une équipe de trailers s’est chargée de vérifier l’heure du lever du soleil en haut des Crêtes et d’établir un nouveau record de vitesse du tour du Lac ! A quand le prochain défi Run&Swim de Notre Dame des Neiges ?? 
+Le soir les cordes des guitares se sont enflammées au rythme des chansons d’hier et d’aujourd’hui (On a noté le manque d’artistes féminines dans les cahiers de chants, on prévoit de les remettre à jour !). Bien entendu du Beaufort a été dégusté en masse et une nouvelle recette de Curry de Légumes a été inaugurée. Que de réconfort de se retrouver à Arêches à l’automne. Comme toujours un moment hors du temps qui nous a fait le plus grand bien ! N’hésitez pas à rapporter vos baskets et vos vélos pour on espère une nouvelle édition l’année prochaine !
+
+![séjour été 2026](/img/post/2026/2026-cr-sejour-ete-19.png)
+
+![séjour été 2026](/img/post/2026/2026-cr-sejour-ete-20.png)
+
+![séjour été 2026](/img/post/2026/2026-cr-sejour-ete-21.png)
+
+![séjour été 2026](/img/post/2026/2026-cr-sejour-ete-22.png)
+
+![séjour été 2026](/img/post/2026/2026-cr-sejour-ete-23.png)
+
+
+Cinq séjours, des publics différents et autant de façons de vivre en groupe à Arêches. Au fil des semaines, le chalet Notre-Dame des Neiges a retrouvé ce qui fait son identité : une vie collective, des activités pour découvrir la montagne, des temps de partage et une place pour la réflexion spirituelle.
 
 Merci aux responsables, aux participants et aux membres de l'association qui ont fait vivre cette saison estivale. Merci également aux photographes qui nous permettent de prolonger ces moments en images !
 
