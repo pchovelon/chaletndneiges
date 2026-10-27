@@ -18,6 +18,8 @@ URL: "/2023/sejour-ete/"
 Et si vous décidiez de monter au chalet pour profiter de la fraîcheur qu’offre l’altitude et passer de bons moments dans le cirque de Saint Guérin !?
 
 Voici la liste des séjours qui vous sont proposés cette année, il y en a pour tous les goûts et pour tous les âges alors contactez dès à présent les organisateurs du séjour qui vous intéresse.
+<!--more-->
+
 ![Paysage](/img/post/2023/2023-sejours-ete_1.jpg) 
 
 ### **Séjour Jeunes Parents & Jeunes Enfants du 29 juillet au 5 août :**

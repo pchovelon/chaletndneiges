@@ -15,6 +15,7 @@ URL: "/2023/sejour-ete-cr/"
 
 Le chalet Notre Dame des Neiges a vécu un été bien chargé en vous accueillant avant de s'offrir un petit lifting bien mérité !
 
+<!--more-->
 ![séjour été 2023](/img/post/2023/2023-sejours-ete-cr_2.png) 
 
 Cette année encore, tous les séjours ont pu profiter du cirque de Saint-Guérin et de Roselend pour randonner et découvrir le Beaufortain. Tour du lac ou aller-retour au Mont Coin, bivouac en altitude ou lever de soleil depuis le Grand Mont, chaque sortie s'adapte aux envies du groupe.

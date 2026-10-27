@@ -17,10 +17,10 @@ URL: "/2024/sejour-ete/"
 ## « À chacun sa montagne ! »
 
 
-![Séjour été](/img/post/2024/line.png) 
-
 L'association vous propose cette année encore des séjours pour tous les goûts ! Si vous avez une âme d'artiste et que vous aimez vous retrousser les manches, le séjour travaux est fait pour vous !!\
 Si au contraire vous voulez vivre un séjour convivial, admirer la beauté de la création en randonnant sur les sentiers du Beaufortain alors orientez-vous sur le séjour Famille ou Jeunes. Le séjour Jeunes Parents & Jeunes Enfants est déjà complet...
+<!--more-->
+![Séjour été](/img/post/2024/line.png) 
 
 À chacun son séjour, à chacun sa montagne...laissez-vous guider sur les sentiers du Beaufortain !
 

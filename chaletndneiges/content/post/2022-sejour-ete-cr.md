@@ -16,7 +16,7 @@ URL: "/2022/sejour-ete-cr/"
 Une fois de plus, le chalet Notre Dame des Neiges a accueilli bon nombre d’entre vous durant les différents séjours organisés. Du séjour travaux à celui des Jeunes Parents Jeunes Enfants, revenons sur les activités qui ont animé le cirque de Saint-Guérin cet été 2022 !
 
 L’été a commencé par un séjour travaux qui a regroupé une dizaine de personnes. Ce type de séjour est important pour l’entretien du chalet, un grand merci aux participants, qui ont fait du ménage dans cayenne et réalisé des petits travaux d’entretien. Ces quelques jours en montagne ont permis à certains de profiter du lac ou bien de rencontrer les traileurs de la Pierra Menta été au passage de la charmette.
-
+<!--more-->
 ![Paysage](/img/post/2022/2022-sejour-ete-cr_1.jpg)
 
 Ensuite, c’est le Patronage Saint-Joseph qui est venu occuper les lieux durant le mois de juillet. 37 jeunes de Saint-Etienne ainsi que leurs animateurs et des Religieux de Saint-Vincent de Paul ont pu profiter des sentiers pour (re)découvrir le Beaufortain. On vous partage le site internet des religieux RSV pour les connaître un peu plus [https://r-s-v.org/](https://r-s-v.org/).

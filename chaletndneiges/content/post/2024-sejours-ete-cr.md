@@ -18,7 +18,7 @@ Une nouvelle saison estivale touche à sa fin au chalet Notre Dame des Neiges !
 Nous sommes ravis de vous avoir accueillis si nombreux lors de nos séjours. Voici un petit résumé de nos activités :
 
 Le séjour travaux s'est déroulé début juillet et a rassemblé une douzaine de participants. Grâce à leur enthousiasme, plusieurs petits travaux ont été réalisés, notamment en cuisine, dans les installations techniques du chalet, ainsi que la peinture d'une chambre et un passage à la déchetterie. Entre toutes ces tâches, une randonnée autour du lac a également eu lieu, et nous avons eu l'honneur d'accueillir le maire de Beaufort.
-
+<!--more-->
 ![séjour été 2024](/img/post/2024/2024-sejours-ete-cr_2.png) 
 
 ![séjour été 2024](/img/post/2024/2024-sejours-ete-cr_3.png) 

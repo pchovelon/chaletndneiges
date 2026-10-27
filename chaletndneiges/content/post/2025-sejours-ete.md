@@ -18,6 +18,7 @@ URL: "/2025/sejour-ete/"
 
 L'association Notre Dame des Neiges vous propose plusieurs séjours durant le mois d'août pour venir se détendre au pied du Grand Mont. Veuillez trouver en dessous les plaquettes de présentation de chaque séjour. Pour vous inscrire, contacter l'organisateur du séjour qui vous intéresse.
 
+<!--more-->
 
 ![Séjour été](/img/post/2025/capture_5.jpg) 
 

@@ -18,6 +18,8 @@ Parcourons ensemble les premiers numéros !
 
 Retrouvez le premier numéro datant de 1990 ci-dessous :
 
+<!--more-->
+
 <a href="/downloads/2024/numero1_1990.pdf" target="_blank">Découvrez le premier numéro</a>
 
 Puis des extraits des numéros suivants !
