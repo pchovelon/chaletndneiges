@@ -20,6 +20,8 @@ Chaque séjour a laissé sa trace dans la montagne, un écho de rires, de rencon
 Les couloirs du chalet ont d’abord entendu résonner les voix des enfants et des animateurs du Patronage Saint-Joseph.
 Ils ont occupé les lieux en juillet, comme ils le font depuis cinquante ans !
 
+<!--more-->
+
 ![séjour été 2025](/img/post/2025/2025-sejours-ete-cr_patro.jpg)
 
 Pour poursuivre l’été, le **séjour Familles** a pris possession du chalet : plus de trente participants et dix familles s’étaient donné rendez-vous.

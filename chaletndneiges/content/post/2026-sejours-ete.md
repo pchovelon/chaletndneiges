@@ -13,16 +13,15 @@ tags:
 URL: "/2026/sejour-ete/"
 ---
 
-
 ## Voici les séjours de l'été à Saint Guérin !
 
 L’association Notre Dame des Neiges vous invite à découvrir ses séjours organisés au mois d’août et septembre, pour profiter d’un moment de repos et de ressourcement au pied du Crêt du Rey.
 Vous trouverez ci-dessous les brochures de présentation de chaque séjour.
 Pour toute inscription ou demande d’information, merci de prendre directement contact avec l’organisateur du séjour choisi.
 
+<!--more-->
 
 ![Séjour été](/img/post/2026/2026-sejour-ete-1.jpg) 
-
 
 ### **Séjours Jeunes Parents & Jeunes Enfants du 1er août au 8 août :**
 * Responsable : Alexis Bailleul

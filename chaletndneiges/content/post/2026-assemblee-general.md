@@ -23,6 +23,8 @@ Nous vous attendons nombreuses et nombreux pour participer à l’Assemblée Gé
 
 Pour que ces retrouvailles soient une fête, nous comptons sur votre présence, votre générosité, et vos initiatives !
 
+<!--more-->
+
 ![Assemblee Generale](/img/post/2026/2026-ag-chalet_1.jpg) 
 
 

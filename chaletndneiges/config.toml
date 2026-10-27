@@ -5,7 +5,8 @@ theme = "hugo-theme-cleanwhite"
 languageCode = "fr-fr"
 # Enable comments by entering your Disqus shortname
 preserveTaxonomyNames = true
-paginate = 5 #frontpage pagination
+[pagination]
+pagerSize = 5 #frontpage pagination
 
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
